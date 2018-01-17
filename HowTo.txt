@@ -1,5 +1,5 @@
 ####### ENGLISH #######
-This scripts is based on Pete`s Tum scripts and was modified for better compatibility with different firmware versions for Bebop 1 and Bebop 2
+This scripts is based on Pete`s Tum scripts and was modified for better compatibility with different firmware versions for Bebop 1, Bebop 2 and Bebop 2 Power.
 #######################
 There are 5 scripts in this installer. They can be run by pressing the power button of your drone.
 
